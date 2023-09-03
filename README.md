@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lipzyk
+- 👀 I’m interested in python 
+- 🌱 I’m currently learning about progamation and guns
